@@ -29,6 +29,7 @@ Installation
 Clone this repository:
 
 git clone https://github.com/brurenno/aerospace_failure_data
+
 cd aerospace-failure-prediction
 
 Install required dependencies:
